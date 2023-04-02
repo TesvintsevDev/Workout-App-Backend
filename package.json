@@ -12,7 +12,6 @@
 		"workout",
 		"app"
 	],
-	"license": "ISC",
 	"devDependencies": {
 		"@trivago/prettier-plugin-sort-imports": "^4.0.0",
 		"colors": "^1.4.0",
