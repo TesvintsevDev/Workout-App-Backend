@@ -1,2 +1,3 @@
-Backend 
-Node JS
+# 🛠 Backend Технологии:
+
+# NodeJS / ES6
