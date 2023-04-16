@@ -1,7 +1,7 @@
 # 🛠 Backend Технологии:
 
 # NodeJS / ES6
-- **Node.js
+- Node.js
 - **Express.js
 - **JSON Web Token** (аутентификация / авторизация)
 - **PostgreSQL
